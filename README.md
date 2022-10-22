@@ -11,14 +11,11 @@
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
+- 🌱 I’m an Edtech enthusiast. 
 
-- 🔭 I’m currently working on Edtech app and other stuffs
+- 👯 I’m looking to collaborate on Projects,Tech Articles.
 
-- 🌱 I’m currently learning Flutter Development 
-
-- 👯 I’m looking to collaborate on Projects,Tech Articles 
-
-- 💬 Talk to me about Freelancing, Open Source, StartUps, edtech, Fintech
+- 💬 Talk to me about Freelancing, Open Source, StartUps, edtech, Fintech.
 
 <h2> Skills </h2>
 <a href= https://github.com/inlogicstudio?tab=repositories&q=&type=&language=php&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/php.svg'> </a>
