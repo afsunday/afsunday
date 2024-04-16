@@ -1,8 +1,6 @@
 <h1> Hello Fellow < Developers/ >!</h1>
 <p align='center'>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=inlogicstudio.inlogicstudio)
-
 </p>
 <div size='20px'> Hi! My name is Sunday Afuwape Oluwafemi. Thank You for taking the time to view my GitHub Profile :smile: 
 </div>
