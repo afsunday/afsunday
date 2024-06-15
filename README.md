@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on Projects,Tech Articles.
 
-- 💬 Talk to me about Freelancing, Open Source, StartUps, edtech, Fintech.
+- 💬 Talk to me about Freelancing, Open Source, StartUps, edtech and Fintech.
 
 <h2> Skills <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width = 32px height=32px> </h2>
 <a href= https://github.com/https://www.github.com/inlogicstudio?tab=repositories&q=&type=&language=php&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/php.svg'> </a>
