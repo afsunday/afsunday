@@ -11,7 +11,7 @@
 
 - 🌱 I’m an Edtech enthusiast. 
 
-- 👯 I’m looking to collaborate on Projects,Tech Articles.
+- 👯 I’m looking to collaborate on Projects and Tech Articles.
 
 - 💬 Talk to me about Freelancing, Open Source, StartUps, edtech and Fintech.
 
