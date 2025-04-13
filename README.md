@@ -8,9 +8,7 @@
 <h2> About Me</h2>
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
-
-- 🌱 I’m an Edtech enthusiast. 
-
+ 
 - 👯 I’m looking to collaborate on Projects and Tech Articles.
 
 - 💬 Talk to me about Fintech, Edtech, Freelancing, StartUps and OpenSource.
